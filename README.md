@@ -23,8 +23,9 @@ Ce projet est une démonstration basique d'une application **Node.js + Express**
 
 ## 🌐 Aperçu de l'application
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRnNTUybHRrdTZwaGNvZm9qbmF2Y3liM29yODd6NzBjd3Rkbmt1dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1mtmXsy0mWtwH1sA4o/giphy.gif" alt="Aperçu de l'application" width="70%" />
+### Node.js en action (formulaire + liste)  
+<p align="center">  
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Node.js form demo GIF" width="60%" />  
 </p>
 
 
@@ -43,8 +44,9 @@ Ce projet est une démonstration basique d'une application **Node.js + Express**
 
 Voici un aperçu rapide du projet en action :
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRnNTUybHRrdTZwaGNvZm9qbmF2Y3liM29yODd6NzBjd3Rkbmt1dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1mtmXsy0mWtwH1sA4o/giphy.gif" alt="Démo du projet" width="70%" />
+### STM32 + formulaire interactif  
+<p align="center">  
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="STM32 microcontroller demo GIF" width="60%" />  
 </p>
 
 ----
