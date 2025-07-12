@@ -1,4 +1,4 @@
-<h1 align="center">📦 STM32-First-Node-js-project</h1>
+<h1 align="center">📦 STM32‑First‑Node‑js‑project</h1>
 <p align="center">
   🧪 Un projet simple en <strong>Node.js</strong> qui combine un <strong>formulaire web</strong> interactif et une <strong>liste dynamique</strong> 📝
 </p>
@@ -16,12 +16,17 @@
 Ce projet est une démonstration basique d'une application **Node.js + Express**, permettant :
 
 - de **soumettre un formulaire** via une interface web,
-- de **voir la liste des entrées ajoutées dynamiquement**,
-- d'explorer un backend simple, parfait pour les débutants ou les tests de fonctionnalités.
+- de **voir la liste des entrées ajoutées dynamiquement**,  
+- d’explorer un backend simple, parfait pour les débutants ou les prototypes.
 
 ---
 
 ## 🌐 Aperçu de l'application
+
+### STM32 – microcontrôleur en action  
+<p align="center">  
+  <img src="https://media.giphy.com/media/REPLACE_WITH_YOUR_STM32_GIF.gif" alt="STM32 microcontroller demo GIF" width="60%" />  
+</p>
 
 ### Node.js – formulaire & liste dynamiques  
 <p align="center">  
@@ -32,34 +37,24 @@ Ce projet est une démonstration basique d'une application **Node.js + Express**
 
 ## ⚙️ Technologies utilisées
 
-| Outil         | Description                         |
-|---------------|-------------------------------------|
-| 🟢 Node.js     | Runtime JavaScript côté serveur      |
-| 🚀 Express.js  | Framework minimal pour les routes    |
-| 🧾 HTML/CSS    | Interface simple du formulaire       |
-| 📦 npm         | Gestionnaire de paquets              |
-
-## 🎥 Démo en ligne
-
-Voici un aperçu rapide du projet en action :
-
-### STM32 – microcontrôleur en action  
-<p align="center">  
-  <img src="https://media.giphy.com/media/REPLACE_WITH_YOUR_STM32_GIF.gif" alt="STM32 microcontroller demo GIF" width="60%" />  
-</p>
-
-----
-## 🙋‍♀️ Auteur
-
-- 👩‍💻 **Farah Kouki**  
-- 📧 Contact : [farah.kouki@esprit.tn](mailto:farah.kouki@esprit.tn)  
-- 🔗 [Profil GitHub](https://github.com/farahkouki)
+| Outil         | Description                                |
+|---------------|--------------------------------------------|
+| 🟢 Node.js     | Runtime JavaScript côté serveur            |
+| 🚀 Express.js  | Framework minimaliste pour les routes      |
+| 🧾 HTML/CSS    | Interface simple pour formulaire & liste   |
+| 📦 npm         | Gestionnaire de paquets JavaScript         |
 
 ---
 
-## 🌟 Remerciements
+## 🛠️ Installation & démarrage
 
-Merci d'avoir exploré ce projet !  
-N’hésitez pas à **⭐️ "starrer"** le dépôt si vous le trouvez utile ou inspirant ✨
+```bash
+# 1. Cloner le projet
+git clone https://github.com/farahkouki/STM32-First-Node-js-project.git
+cd STM32-First-Node-js-project
 
+# 2. Installer les dépendances
+npm install
 
+# 3. Lancer le serveur
+node server.js
