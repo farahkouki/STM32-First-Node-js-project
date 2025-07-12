@@ -1,0 +1,33 @@
+
+     <!DOCTYPE html>
+     <html lang="fr">
+     <head>
+         <meta charset="UTF-8">
+         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+         <title>Ajouter un microcontrôleur STM32</title>
+         <link rel="stylesheet" href="/css/styles.css">
+     </head>
+     <body>
+         <header>
+             <img src="/images/st-logo.jpg" alt="STMicroelectronics Logo" class="logo">
+             <h1>Ajouter un microcontrôleur STM32</h1>
+         </header>
+         <main>
+             <form action="/submit" method="POST" class="form-container">
+                 <label for="model">Modèle (ex: STM32F103C8T6) :</label>
+                 <input type="text" id="model" name="model" placeholder="ex: STM32F103C8T6" required>
+                 <label for="frequency">Fréquence (ex: 72 MHz) :</label>
+                 <input type="text" id="frequency" name="frequency" placeholder="ex: 72 MHz" required>
+                 <label for="memory">Mémoire Flash (ex: 64 KB) :</label>
+                 <input type="text" id="memory" name="memory" placeholder="ex: 64 KB" required>
+                 <label for="image">URL de l'image (optionnel) :</label>
+                 <input type="text" id="image" name="image" placeholder="ex: /images/stm32f103.jpg">
+                 <button type="submit" class="btn">Ajouter</button>
+             </form>
+             <p><a href="/" class="link">Retour à l'accueil</a></p>
+         </main>
+         <footer>
+             <p>© 2025 STM32 App - Powered by STMicroelectronics</p>
+         </footer>
+     </body>
+     </html>

@@ -1,0 +1,55 @@
+
+     <!DOCTYPE html>
+     <html lang="fr">
+     <head>
+         <meta charset="UTF-8">
+         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+         <title>Liste des microcontrôleurs STM32</title>
+         <link rel="stylesheet" href="/css/styles.css">
+     </head>
+     <body>
+         <header>
+             <img src="/images/st-logo.jpg" alt="STMicroelectronics Logo" class="logo">
+             <h1>Liste des microcontrôleurs STM32</h1>
+         </header>
+         <main>
+             <% if (microcontrollers.length === 0) { %>
+                 <p>Aucun microcontrôleur STM32 ajouté pour le moment.</p>
+             <% } else { %>
+                 <table>
+                     <thead>
+                         <tr>
+                             <th>Modèle</th>
+                             <th>Fréquence</th>
+                             <th>Mémoire Flash</th>
+                             <th>Image</th>
+                         </tr>
+                     </thead>
+                     <tbody>
+                         <% microcontrollers.forEach(mcu => { %>
+                             <tr>
+                                 <td><%= mcu.model %></td>
+                                 <td><%= mcu.frequency %></td>
+                                 <td><%= mcu.memory %></td>
+                                 <td>
+                                     <% if (mcu.image) { %>
+                                         <img src="<%= mcu.image %>" alt="<%= mcu.model %>" class="mcu-image">
+                                     <% } else { %>
+                                         Pas d'image
+                                     <% } %>
+                                 </td>
+                             </tr>
+                         <% }) %>
+                     </tbody>
+                 </table>
+             <% } %>
+             <p>
+                 <a href="/form" class="link">Ajouter un autre microcontrôleur</a> |
+                 <a href="/" class="link">Retour à l'accueil</a>
+             </p>
+         </main>
+         <footer>
+             <p>© 2025 STM32 App - Powered by STMicroelectronics</p>
+         </footer>
+     </body>
+     </html>
