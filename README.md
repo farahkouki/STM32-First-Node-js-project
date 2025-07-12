@@ -24,8 +24,9 @@ Ce projet est une démonstration basique d'une application **Node.js + Express**
 ## 🌐 Aperçu de l'application
 
 <p align="center">
-  <img src="https://github.com/farahkouki/STM32-First-Node-js-project/assets/preview-image.gif" alt="Aperçu de l'application" width="70%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRnNTUybHRrdTZwaGNvZm9qbmF2Y3liM29yODd6NzBjd3Rkbmt1dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1mtmXsy0mWtwH1sA4o/giphy.gif" alt="Aperçu de l'application" width="70%" />
 </p>
+
 
 ---
 
