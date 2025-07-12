@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
 </p>
 
----
 
 ## 🚀 Présentation
 
@@ -21,19 +20,6 @@ Ce projet est une démonstration basique d'une application **Node.js + Express**
 
 ---
 
-## 🌐 Aperçu de l'application
-
-### STM32 – microcontrôleur en action  
-<p align="center">  
-  <img src="https://media.giphy.com/media/REPLACE_WITH_YOUR_STM32_GIF.gif" alt="STM32 microcontroller demo GIF" width="60%" />  
-</p>
-
-### Node.js – formulaire & liste dynamiques  
-<p align="center">  
-  <img src="https://media.giphy.com/media/REPLACE_WITH_YOUR_NODEJS_GIF.gif" alt="Node.js form demo GIF" width="60%" />  
-</p>
-
----
 
 ## ⚙️ Technologies utilisées
 
@@ -58,3 +44,4 @@ npm install
 
 # 3. Lancer le serveur
 node server.js
+
