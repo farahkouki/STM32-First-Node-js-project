@@ -38,25 +38,26 @@ Ce projet est une démonstration basique d'une application **Node.js + Express**
 | 🧾 HTML/CSS    | Interface simple du formulaire       |
 | 📦 npm         | Gestionnaire de paquets              |
 
+## 🎥 Démo en ligne
+
+Voici un aperçu rapide du projet en action :
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRnNTUybHRrdTZwaGNvZm9qbmF2Y3liM29yODd6NzBjd3Rkbmt1dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1mtmXsy0mWtwH1sA4o/giphy.gif" alt="Démo du projet" width="70%" />
+</p>
+
+----
+## 🙋‍♀️ Auteur
+
+- 👩‍💻 **Farah Kouki**  
+- 📧 Contact : [farah.kouki@esprit.tn](mailto:farah.kouki@esprit.tn)  
+- 🔗 [Profil GitHub](https://github.com/farahkouki)
+
 ---
 
-## 🛠️ Installation & démarrage
+## 🌟 Remerciements
 
-```bash
-# 1. Cloner le projet
-git clone https://github.com/farahkouki/STM32-First-Node-js-project.git
-cd STM32-First-Node-js-project
+Merci d'avoir exploré ce projet !  
+N’hésitez pas à **⭐️ "starrer"** le dépôt si vous le trouvez utile ou inspirant ✨
 
-# 2. Installer les dépendances
-npm install
 
-# 3. Lancer le serveur
- node server.js
-
-🙋‍♀️ Auteur
-Réalisé par Farah Kouki
-✉️ Contact : farah.kouki@esprit.tn
-
-🌟 Remerciements
-Merci d'avoir exploré ce projet !
-N'hésitez pas à ⭐ le dépôt si vous le trouvez utile ou inspirant ✨
