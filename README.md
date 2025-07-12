@@ -23,11 +23,10 @@ Ce projet est une démonstration basique d'une application **Node.js + Express**
 
 ## 🌐 Aperçu de l'application
 
-### Node.js en action (formulaire + liste)  
+### Node.js – formulaire & liste dynamiques  
 <p align="center">  
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Node.js form demo GIF" width="60%" />  
+  <img src="https://media.giphy.com/media/REPLACE_WITH_YOUR_NODEJS_GIF.gif" alt="Node.js form demo GIF" width="60%" />  
 </p>
-
 
 ---
 
@@ -44,9 +43,9 @@ Ce projet est une démonstration basique d'une application **Node.js + Express**
 
 Voici un aperçu rapide du projet en action :
 
-### STM32 + formulaire interactif  
+### STM32 – microcontrôleur en action  
 <p align="center">  
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="STM32 microcontroller demo GIF" width="60%" />  
+  <img src="https://media.giphy.com/media/REPLACE_WITH_YOUR_STM32_GIF.gif" alt="STM32 microcontroller demo GIF" width="60%" />  
 </p>
 
 ----
